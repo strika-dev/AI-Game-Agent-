@@ -41,7 +41,8 @@ Assurez-vous d'avoir le **JDK (Java Development Kit)** installé sur votre machi
 
 ### 2. Compilation
 
-Compilez tous les fichiers source Java :
+Importer le projet localement puis éxécuter les commandes suivantes :
 
 ```bash
-javac *.java
+make
+make run
