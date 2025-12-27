@@ -35,7 +35,7 @@ The player can move the flag to a free cell at a distance of **±D**, where **D 
 * **Conditions**:
     1.  The new position of the flag must be **within the board limits**.
     2.  The new position must **not be a burnt cell** (`x`).
-    3.  The new position must **be different from both players' positions**.
+
 * **Consequence**:
     1.  The cell the player just **left** is marked as **burnt** (`x`).
     2.  The flag is moved to the new position.
